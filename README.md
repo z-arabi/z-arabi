@@ -9,7 +9,7 @@ I am a diligent person who has tried to gain skills in various fields. I am curr
 * 🌍  I'm based in Tehran, Iran
 * 🧠  I'm learning Transformers, NLP, DL, ML, AI
 * ⚡  I love yoga and mountain climbing.
-* * ✉️  You can contact me at [zahra22arabi@gmail.com](mailto:zahra22arabi@gmail.com)
+* ✉️  You can contact me at [zahra22arabi@gmail.com](mailto:zahra22arabi@gmail.com)
 
 ### Skills
 
