@@ -6,7 +6,6 @@ Developer
 
 I am a diligent person who has tried to gain skills in various fields. I am currently learning transformers and using them in natural language processing. I also try to do some machine learning and deep learning application projects. Further, I am a web developer with deep front-end and back-end development knowledge. Additionally, I have experience in computer networks and network automation.
 
-* 🌍  I'm in Tehran, Iran
 * 🧠  I'm learning Transformers, NLP
 * ⚡  I love yoga and mountain climbing.
 * ✉️  You can contact me at [zahra22arabi@gmail.com](mailto:zahra22arabi@gmail.com)
